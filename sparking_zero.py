@@ -19,7 +19,8 @@ b = 5
 print(b+a)
 print(b-a)
 print(b/a)
-print(b%a)x=10
+print(b%a)
+x=10
 y="jerry"
 print(type(x))
 print(type(y))
